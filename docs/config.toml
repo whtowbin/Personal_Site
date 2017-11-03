@@ -1,6 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Henry Towbin"
-theme = "ananke"
-publishDir = "docs"
-
